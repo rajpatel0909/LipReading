@@ -5,3 +5,6 @@ Models for performing visual speech recognition, i.e. lip reading from video.
 Hog features - http://www.vlfeat.org/install-matlab.html
 
 HSMM inference - https://github.com/mattjj/pyhsmm 
+
+Collaborators: Raj Patel and Mihir Chauhan.
+
